@@ -11,11 +11,10 @@
 
 ### 🛠️ Technology Stack
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=python,c,java,dart,php,html,css" />
-
-**Frameworks & Tools**
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flutter,qt,linux,git,mysql" />
+**Languages & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,dart,php,html,css,pytorch,tensorflow,flutter,qt,linux,git,mysql" />
+</p>
 
 ---
 
@@ -27,9 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Y3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3AmbGM9Zw/3o72EX5QZ9N9d51dq8/giphy.gif" width="120" />
-  <br>
-  <img src="https://run-cat-copy.vercel.app/api/run?name=yvuuus&theme=dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/get-running-cat.gif" width="300" />
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yvuuus&theme=tokyonight&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5" width="87%" />
