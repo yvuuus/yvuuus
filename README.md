@@ -1,7 +1,7 @@
 <div align="center">
 
 # Yousra Niati
-**AI Researcher • M1 Graduate Student @ USTHB**
+**AI Researcher • M1  Student @ USTHB**
 
 ---
 
