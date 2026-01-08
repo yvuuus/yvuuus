@@ -27,9 +27,9 @@
 </p>
 
 <p align="center">
-  <img src="https://run-cat-copy.vercel.app/api/run?name=yvuuus&theme=dark" alt="Running Cat" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Y3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3AmbGM9Zw/3o72EX5QZ9N9d51dq8/giphy.gif" width="120" />
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHByZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3AmbGM9Zw/unQ3IJU2RG7PEPNvtc/giphy.gif" width="250" />
+  <img src="https://run-cat-copy.vercel.app/api/run?name=yvuuus&theme=dark" width="100%" />
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yvuuus&theme=tokyonight&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5" width="87%" />
