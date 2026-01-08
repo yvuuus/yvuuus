@@ -1,7 +1,9 @@
 <div align="center">
 
-# Yousra Niati
-**AI Research Student @ USTHB** *Computer Vision | Edge AI | Cross-Platform Development*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Yousra%20Niati&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+
+# YOUSRA NIATI
+**AI Research Student @ USTHB**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Computer+Vision+Researcher;Edge+AI+Optimization;Full-Stack+Developer;91.5%+Accuracy+Systems)](https://git.io/typing-svg)
 
@@ -9,13 +11,11 @@
 
 ### 🛠️ Technology Stack
 
-**Languages** <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,dart,php,html,css" />
-</p>
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,c,java,dart,php,html,css" />
 
-**Frameworks & Tools** <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flutter,qt,linux,git,mysql" />
-</p>
+**Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flutter,qt,linux,git,mysql" />
 
 ---
 
@@ -27,13 +27,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yvuuus&theme=tokyonight&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5" width="87%" />
+  <img src="https://run-cat-copy.vercel.app/api/run?name=yvuuus&theme=dark" alt="Running Cat" />
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHByZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3AmbGM9Zw/unQ3IJU2RG7PEPNvtc/giphy.gif" width="250" />
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yvuuus&theme=tokyonight&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5" width="87%" />
 
 ---
 
 ### 🔬 Featured Research
-**[Deployable Fire Detection & Classification](https://github.com/yvuuus/Fire-Detection-Classification)** *Dual-stage AI system (YOLOv5n + EfficientNetB0) optimized for resource-constrained IoT deployment.* **Performance:** 0.88 mAP (Detection) | 91.5% Accuracy (Classification)
+**[Deployable Fire Detection & Classification](https://github.com/yvuuus/Fire-Detection-Classification)**
+*Real-time dual-stage system optimized for resource-constrained IoT deployment.*
+**Performance:** 0.88 mAP | 91.5% Accuracy
 
 ---
 
