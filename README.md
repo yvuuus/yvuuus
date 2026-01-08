@@ -1,7 +1,7 @@
 <div align="center">
 
 # Yousra Niati
-**AI Researcher & M1 Graduate Student** *University of Science and Technology Houari Boumediene (USTHB)*
+**AI Researcher & M1 Student** *University of Science and Technology Houari Boumediene (USTHB)*
 
 ---
 
