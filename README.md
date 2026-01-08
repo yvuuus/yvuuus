@@ -1,40 +1,43 @@
 <div align="center">
 
 # Yousra Niati
-**AI Researcher • M1  Student @ USTHB**
+**AI Research Student @ USTHB** *Computer Vision | Edge AI | Cross-Platform Development*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Computer+Vision+Researcher;Edge+AI+Optimization;Full-Stack+Developer;91.5%+Accuracy+Systems)](https://git.io/typing-svg)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Computer+Vision+Researcher;Edge+AI+Optimization;Real-time+Safety+Systems;91.5%+Accuracy+Classification)](https://git.io/typing-svg)
+### 🛠️ Technology Stack
+
+**Languages** <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,dart,php,html,css" />
+</p>
+
+**Frameworks & Tools** <p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flutter,qt,linux,git,mysql" />
+</p>
 
 ---
 
-### Research Spotlight
-**[Deployable Fire Detection & Classification](https://github.com/yvuuus/Fire-Detection-Classification)**
-*Dual-stage architecture designed for resource-constrained IoT deployment.*
+### 📊 GitHub Ecosystem
 
-| Detection (YOLOv5n) | Classification (EffNet) |
-| :---: | :---: |
-| **0.88 mAP** | **91.5% Accuracy** |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yvuuus&show_icons=true&theme=tokyonight&hide_border=true&title_color=0077B5&icon_color=0077B5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvuuus&layout=compact&theme=tokyonight&hide_border=true&title_color=0077B5" width="38%" />
+</p>
 
----
-
-### GitHub Ecosystem
-<img src="https://github-readme-stats.vercel.app/api?username=yvuuus&show_icons=true&theme=tokyonight&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="Yousra's Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvuuus&layout=compact&theme=tokyonight&hide_border=true&title_color=0077B5" alt="Top Langs" width="300" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yvuuus&theme=tokyonight&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5" width="87%" />
+</p>
 
 ---
 
-### Core Expertise
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+### 🔬 Featured Research
+**[Deployable Fire Detection & Classification](https://github.com/yvuuus/Fire-Detection-Classification)** *Dual-stage AI system (YOLOv5n + EfficientNetB0) optimized for resource-constrained IoT deployment.* **Performance:** 0.88 mAP (Detection) | 91.5% Accuracy (Classification)
 
 ---
 
-### Professional Connectivity
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL_HERE) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Datasets-blue?style=flat-square&logo=Kaggle)](YOUR_KAGGLE_URL_HERE)
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousra-niati/)&nbsp;&nbsp;&nbsp;[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yvuuus)
 
----
 </div>
