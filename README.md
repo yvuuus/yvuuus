@@ -96,7 +96,7 @@ A Casbah-themed escape game built with a team.
 ### 🧩 [Butterfly Orchestration](https://github.com/team-rocket-ncs/butterfly-orchestration)
 `TypeScript`
 
-Orchestration layer of the Butterfly platform, built with **Team Rocket**.
+Orchestration layer of the Butterfly platform.
 
 </td>
 </tr>
@@ -133,7 +133,7 @@ Orchestration layer of the Butterfly platform, built with **Team Rocket**.
 
 ## 🎯 Currently
 
-- 🔭 Building multi-agent AI workflows with **Team Rocket**
+- 🔭 Building multi-agent AI workflows 
 - 🌱 Going deeper into LLM agents, RAG, and production-grade ML
 - 🎓 Studying at **USTHB**
 
